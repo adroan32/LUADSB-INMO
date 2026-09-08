@@ -6,7 +6,7 @@ Este repositorio contiene el análisis y diseño del sistema **Cordillera CRM**,
 
 El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se envían archivos impresos ni copias por otros medios.**
 
-🔗 **Sitio publicado:** `https://[usuario-o-organizacion].github.io/[nombre-del-repositorio]/`
+🔗 **Sitio publicado:** `https://adroan32.github.io/LUADSB-INMO/`
 
 ---
 
@@ -14,13 +14,13 @@ El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se en
 
 | Nombre completo | Rol / Responsabilidad principal | Usuario de GitHub |
 |---|---|---|
-| [Nombre 1] | [ej. Análisis de requisitos] | [@usuario1] |
-| [Nombre 2] | [ej. Modelado y diagramas] | [@usuario2] |
-| [Nombre 3] | [ej. Diseño técnico y documentación] | [@usuario3] |
+| Eber Aldama | Análisis de requisitos | @ebermoisesav |
+| Luis Martinez | Modelado y diagramas | @usuario2 |
+| Adrian Brun | Diseño técnico y documentación | @adroan32 |
 
 ## Usuario / cliente real
 
-**[Nombre del usuario o cliente]** — [breve descripción de quién es y por qué necesita el sistema].
+**AC - INVERSIONES CORDILLERA** — AC Inversiones Cordillera es una agencia de bienes raíces dedicada a la comercialización, desarrollo y administración de propiedades en Caacupé y el departamento de Cordillera, Para dar un salto tecnológico. Buscamos centralizar nuestra información, dejar atrás las planillas manuales y automatizar el control exacto de nuestro inventario (padrones, cuentas corrientes e identificadores). Esto agilizará el trabajo de nuestros agentes y mejorará la atención al cliente.
 
 ## Metodología de diseño y desarrollo elegida
 
@@ -55,7 +55,7 @@ El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se en
 1. Suban este repositorio a GitHub (público, o privado con acceso otorgado a la cátedra).
 2. Vayan a **Settings → Pages**.
 3. En **Source**, seleccionen la rama `main` (o `master`) y la carpeta **/docs**.
-4. Guarden. GitHub publicará el sitio en `https://[usuario].github.io/[repositorio]/` en unos minutos.
+4. Guarden. GitHub publicará el sitio en `https://adroan32.github.io/LUADSB-INMO/` en unos minutos.
 5. Verifiquen que `docs/index.md` se muestre correctamente como página principal.
 6. Actualicen el enlace del sitio arriba en este README y entréguenlo a la cátedra antes de la fecha límite de cada entrega.
 
