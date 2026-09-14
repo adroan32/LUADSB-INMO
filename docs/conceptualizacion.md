@@ -117,9 +117,9 @@ Cordillera CRM será una plataforma web donde cada miembro de la empresa tendrá
 
 | Componente | Elección | Justificación breve |
 |---|---|---|
-| Lenguaje de programación | [ej. Python / Java / TypeScript] | [por qué] |
-| Framework | [ej. Django / Spring Boot / React] | [por qué] |
-| Base de datos | [ej. PostgreSQL / MongoDB] | [por qué] |
+| Lenguaje de programación | PYTHON  | Lenguaje de sintaxis limpia y fácil lectura, lo que acelera el desarrollo y facilita la colaboración entre los tres integrantes del equipo. |
+| Framework | Django (o FastAPI) | Django proporciona una estructura robusta con herramientas integradas (como autenticación de usuarios y panel de administración) ideales para construir un CRM seguro de forma rápida. |
+| Base de datos |PostgreSQL  | Motor de base de datos relacional altamente compatible con Python/Django, perfecto para mantener la integridad de registros de lotes, estados de cuenta y clientes.  |
 
 ---
 
