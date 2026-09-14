@@ -1,6 +1,5 @@
 # Respuestas — Ejercitario Unidad 03
 
-> Completen cada pregunta debajo de su enunciado. Pueden borrar este bloque de instrucciones una vez que empiecen.
 
 ---
 
