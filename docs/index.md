@@ -1,25 +1,25 @@
 ---
-title: "[Nombre del Sistema]"
+title: "Cordillera CRM"
 layout: default
 ---
 
-# [Nombre del Sistema]
+# CORDILLERA CRM
 
 **Trabajo Práctico Integrador — Ingeniería de Software**
 
-[Una o dos frases que resuman de qué trata el sistema y para quién se desarrolla.]
+Una visión completa y despejada de todo tu embudo de ventas. Un sistema administrador de inmuebles
 
 ---
 
 ## Grupo
 
-- **[Nombre 1]** — [rol]
-- **[Nombre 2]** — [rol]
-- **[Nombre 3]** — [rol]
+- **Sergio Adrian Brun Vargas** — Arquitectura de Datos, Backend y Seguridad
+- **Eber Moises Aldama Villagra** — Desarrollo Frontend
+- **Luis Angel Martinez Chena** — QA (Control de Calidad) y Gestor de Integraciones
 
-**Usuario / cliente real:** [nombre del usuario o cliente]
+**Usuario / cliente real:** AC - INVERSIONES CORDILLERA
 
-**Metodología utilizada:** [nombre de la metodología elegida]
+**Metodología utilizada:** El proyecto Cordillera CRM se desarrolla bajo los principios del Manifiesto Ágil, combinando prácticas de gestión visual y entregas iterativas. Esta metodología otorga al equipo la flexibilidad necesaria para abordar la arquitectura del software de manera progresiva. Se prioriza el desarrollo de un Producto Mínimo Viable (MVP) funcional en las primeras etapas, permitiendo la integración continua de componentes, la evaluación constante de la seguridad y el rendimiento, y la iteración del código basándose en pruebas de calidad prácticas a lo largo del ciclo de vida del proyecto.
 
 ---
 
