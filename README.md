@@ -15,7 +15,7 @@ El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se en
 | Nombre completo | Rol / Responsabilidad principal | Usuario de GitHub |
 |---|---|---|
 | Eber Aldama | Análisis de requisitos | @ebermoisesav |
-| Luis Martinez | Modelado y diagramas | @usuario2 |
+| Luis Martinez | Modelado y diagramas | @luischena77-star |
 | Adrian Brun | Diseño técnico y documentación | @adroan32 |
 
 ## Usuario / cliente real
