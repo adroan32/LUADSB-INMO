@@ -24,9 +24,9 @@ El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se en
 
 ## Metodología de diseño y desarrollo elegida
 
-[Nombre de la metodología, por ejemplo: RUP, Scrum aplicado al modelado, Design Thinking + UML, etc.]
+Proceso Unificado Ágil / Agile UP (Equilibrio estructurado)
 
-[Breve justificación de por qué el grupo eligió esta metodología para este proyecto.]
+Se optó por Agile UP debido a que ofrece un equilibrio perfecto entre la estructura del Proceso Unificado tradicional y la velocidad de las metodologías ágiles. Esta metodología permite al equipo transitar por fases claras (Inicio, Elaboración, Construcción y Transición) con iteraciones rápidas. Es la elección ideal para estructurar con precisión la complejidad de los datos (gestión de cuotas, identificadores de terrenos y estados de cuenta) durante la fase de Elaboración, mitigando los riesgos técnicos en la arquitectura y seguridad antes de iniciar la etapa intensiva de codificación.
 
 ---
 
@@ -34,7 +34,7 @@ El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se en
 
 | Entrega | Estado | Enlace |
 |---|---|---|
-| 1. Conceptualización | 🔲 Pendiente / ✅ Entregado | [Ver documento](docs/conceptualizacion.md) |
+| 1. Conceptualización | ✅ Entregado | [Ver documento](docs/conceptualizacion.md) |
 | 2. Análisis | 🔲 Pendiente / ✅ Entregado | [Ver documento](docs/analisis.md) |
 | 3. Diseño | 🔲 Pendiente / ✅ Entregado | [Ver documento](docs/diseno.md) |
 
