@@ -39,4 +39,4 @@ Una visión completa y despejada de todo tu embudo de ventas. Un sistema adminis
 
 ---
 
-<sub>Sitio generado y mantenido por el grupo como entrega oficial del Trabajo Práctico Integrador. Última actualización: [fecha].</sub>
+<sub>Sitio generado y mantenido por el grupo como entrega oficial del Trabajo Práctico Integrador. Última actualización: 14/09/2026.</sub>
