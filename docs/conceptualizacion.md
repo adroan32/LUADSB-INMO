@@ -29,7 +29,16 @@ layout: default
 
 ## 2. Definición del problema
 
-"Actualmente, la gestión de clientes y la venta de terrenos se realiza de manera fragmentada y manual. La empresa depende de complejas hojas de cálculo para administrar su inventario inmobiliario, recurriendo a fórmulas anidadas para extraer y organizar identificadores de propiedades (como el ID del lote o el número de padrón) y llevar el control de las cuotas en los estados de cuenta (cta cte). Además, las negociaciones se dispersan en cadenas de mensajes de WhatsApp. Esta falta de centralización provoca confusión sobre qué terrenos están disponibles, reservados o vendidos, demoras en el seguimiento de prospectos y cobros, y un alto riesgo de errores al no tener un embudo de ventas claro que guíe al cliente desde la consulta inicial hasta la firma del contrato."¿Qué dificultades enfrenta?]
+Actualmente, la gestión comercial, el seguimiento de clientes y la administración de la venta de terrenos se realizan mediante procesos manuales y herramientas dispersas, lo que limita la eficiencia operativa y la trazabilidad de la información.
+
+La empresa depende principalmente de hojas de cálculo complejas para gestionar el inventario inmobiliario, utilizando fórmulas y procesos manuales para identificar, clasificar y organizar datos clave de cada propiedad, como el ID del lote, número de padrón, estado del inmueble y disponibilidad. De igual manera, el control de cuotas, pagos y estados de cuenta se administra de forma descentralizada, dificultando el seguimiento financiero de cada cliente.
+
+A esto se suma que gran parte de las consultas, negociaciones y acuerdos comerciales se gestionan mediante conversaciones de WhatsApp, provocando que la información quede distribuida en diferentes canales y sin un registro único del historial de cada cliente.
+
+Esta falta de centralización genera dificultades para conocer en tiempo real qué terrenos se encuentran disponibles, reservados o vendidos; retrasa el seguimiento de prospectos y cobranzas; incrementa el riesgo de errores administrativos y duplicidad de información; y dificulta la gestión de un proceso comercial estructurado.
+
+Actualmente no existe un embudo de ventas centralizado que permita acompañar y monitorear cada oportunidad comercial desde la consulta inicial del prospecto, pasando por la negociación y reserva del inmueble, hasta la formalización y firma del contrato.
+
 
 ---
 
