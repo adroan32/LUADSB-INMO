@@ -38,7 +38,7 @@ layout: default
 
 **Diagrama de casos de uso:**
 
-`[Insertar imagen: imagenes/diagramacasosdeuso.png]`  
+![Test](diagramacasosdeuso.png)
 *(Debe mostrar al "Agente", al "Administrador" y al "Cliente/Visitante" interactuando con módulos como Gestión de Propiedades y Gestión de Clientes).*
 
 **Especificación de casos de uso principales:**
