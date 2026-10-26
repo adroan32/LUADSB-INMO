@@ -65,7 +65,7 @@ layout: default
 
 **Diagrama de clases conceptual:**
 
-`[Insertar imagen: diagramas/modelo-dominio-inmobiliaria.png]`
+![Test](diagramadeclases.png)
 
 **Descripción de entidades principales:**
 * **Agente:** Empleado de AC Inversiones Cordillera (Nombre, Teléfono, Email, Porcentaje de comisión).
@@ -79,7 +79,7 @@ layout: default
 
 **Diagrama de secuencia — CU-01: Registrar Nueva Propiedad:**
 
-`[Insertar imagen: diagramas/secuencia-registrar-propiedad.png]`
+![Test](diagramadesecuencia.png)
 
 **Explicación del flujo:** 
 El *Agente* envía los datos del formulario a través de la Interfaz. El *Controlador de Propiedades (Python)* recibe el request, valida las reglas de negocio, procesa las imágenes y ejecuta el `INSERT` en la *Base de Datos (PostgreSQL)*. Finalmente, retorna un código HTTP 201 (Created) con el mensaje de éxito a la vista.
@@ -90,7 +90,7 @@ El *Agente* envía los datos del formulario a través de la Interfaz. El *Contro
 
 **Pantalla — Catálogo / Buscador Interno:**
 
-`[Insertar imagen: diagramas/mockup-catalogo-agentes.png]`
+![Test](prototipomockups.png)
 
 **Descripción:** 
 Pantalla de uso diario para el agente. Muestra una barra superior con filtros (Ciudad en Cordillera, Rango de Precios, Tipo de Inmueble) y una grilla de tarjetas. Cada tarjeta muestra la foto principal de la propiedad, su estado actual en una etiqueta de color (Verde = Disponible, Rojo = Vendido) y un botón de "Ver detalles".
