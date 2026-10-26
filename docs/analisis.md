@@ -38,7 +38,8 @@ layout: default
 
 **Diagrama de casos de uso:**
 
-`[Insertar imagen: diagramas/casos-de-uso-inmobiliaria.png]`  
+`<img width="777" height="431" alt="image" src="https://github.com/user-attachments/assets/b191129c-ea1f-417d-877e-d207ee9ca358" />
+`  
 *(Debe mostrar al "Agente", al "Administrador" y al "Cliente/Visitante" interactuando con módulos como Gestión de Propiedades y Gestión de Clientes).*
 
 **Especificación de casos de uso principales:**
