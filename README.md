@@ -35,7 +35,7 @@ Se optó por Agile UP debido a que ofrece un equilibrio perfecto entre la estruc
 | Entrega | Estado | Enlace |
 |---|---|---|
 | 1. Conceptualización | ✅ Entregado | [Ver documento](docs/conceptualizacion.md) |
-| 2. Análisis | 🔲 Pendiente / ✅ Entregado | [Ver documento](docs/analisis.md) |
+| 2. Análisis | ✅ Entregado | [Ver documento](docs/analisis.md) |
 | 3. Diseño | 🔲 Pendiente / ✅ Entregado | [Ver documento](docs/diseno.md) |
 
 ## Estructura del repositorio
